@@ -1,0 +1,152 @@
+body
+{
+	font-size:1vw;
+}
+p
+{
+	font-size:1vw;
+}
+h1
+{
+	font-size:2.6vw;
+}
+h2
+{
+	font-size:2.3vw;
+}
+.logo
+{
+	text-align:left;
+	background-color:#ff0033;
+	padding:5px;
+	padding-left:10px;
+	font-size:20px;
+	font-weight:bold;
+	color:#fbfbfb;
+	border-bottom: 2px dotted white;
+	
+}
+.temat
+{
+text-align:center;
+font-size:26px;
+background-color:#ff0033;
+padding:2%;
+font-weight:bold;
+	color:#fbfbfb;
+}
+.temat q
+{
+font-size:2.6vw;
+}
+.menu
+{
+	background-color: #FF0000;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100%;
+	font-size: 20px;
+	color: white;
+}
+.menu a
+{
+color: white; 
+}
+.menu12
+{
+text-align:center;
+}
+.menu2
+{
+	display: inline-block;
+	padding:10px;
+	font-weight:bold;
+
+	
+}
+.menu2:hover
+{
+ background-color:#ff6666;
+ padding:5px;
+
+	
+}
+
+
+.naglowek
+{
+float:left;
+width:50%;
+}
+.zdjecie
+{
+float:left;
+width:50%;
+
+}
+.zdjecie img
+{
+width:100%;
+
+}
+
+    .google-maps {
+        position: relative;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+		margin: 0 auto;
+        width: 100% !important;
+        height: 40% !important;
+    }
+
+.zdjeciemapa
+{
+float:left;
+width:60%;
+}
+.zdjecieiopis
+{
+	padding:5px;
+}
+.zdjeciemapa img
+{
+background-color:#ff00ff;
+float:left;
+width:100%;
+}
+.opis
+{
+float:left;
+width:30%;
+font-size:20px;
+padding:20px;
+text-align:center;
+}
+.element
+{
+float:left;
+width:75%;
+padding:10px;
+}
+.portale
+{
+float:left;
+width:20%;
+}
+.portale img
+{
+float:left;
+width:30%;
+height:30%;
+padding:20px;
+}
+.stopka
+{
+	background-color:#ff0033;
+	padding:5px;
+	text-align: center;
+	font-size:2vw;
+	font-weight:bold;
+	color:#fbfbfb;
+}

@@ -1,0 +1,138 @@
+﻿body
+{
+	background-color:#e6e6e6;
+	font-size:1vw;
+}
+p
+{
+	font-size:1vw;
+}
+h1
+{
+	font-size:3vw;
+}
+h2
+{
+	font-size:3vw;
+}
+.all
+{
+	margin:auto;
+	background-color:#e6e6e6;
+	
+
+}
+.logo
+{
+	text-align:left;
+	background-color:#ff0033;
+	padding:5px;
+	padding-left:10px;
+	font-size:20px;
+	font-weight:bold;
+	color:#fbfbfb;
+	border-bottom: 2px dotted white;
+	
+}
+.temat
+{
+text-align:center;
+font-size:26px;
+background-color:#ff0033;
+padding:25px;
+font-weight:bold;
+	color:#fbfbfb;
+}
+.temat q
+{
+font-size:2.6vw;
+}
+.menu
+{
+	background-color: #FF0000;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100%;
+	font-size: 20px;
+	color: white;
+}
+.menu a
+{
+color: white; 
+}
+.menu12
+{
+text-align:center;
+}
+.menu2
+{
+	display: inline-block;
+	padding:10px;
+	font-weight:bold;
+
+	
+}
+.menu2:hover
+{
+ background-color:#ff6666;
+ padding:5px;
+
+	
+}
+
+.baner
+{
+	text-align: center;
+}
+.baner img
+{
+	width: 100%;
+	max-height:400px;
+}
+.naglowki
+{
+}
+.n1
+{
+	float: left;
+	width:48%;
+		text-align: center;
+		padding:2px;
+	
+}
+.n2
+{
+	float: left;
+	width:48%;
+		text-align: center;
+		padding:2px;
+	
+}
+.n2 img
+{
+width: 70%;
+height:70%;
+	
+}
+.galeria
+{
+	text-align: center;
+	font-size: 5vw;
+	font-weight:bold;
+	
+}
+.galeria img
+{
+	height:30%;
+	width:40%;
+	
+}
+.stopka
+{
+	background-color:#ff0033;
+	padding:5px;
+	text-align: center;
+	font-size:2vw;
+	font-weight:bold;
+	color:#fbfbfb;
+}
